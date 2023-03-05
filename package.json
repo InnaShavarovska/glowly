@@ -1,0 +1,19 @@
+{
+  "name": "glowlyone",
+  "version": "1.0.0",
+  "description": "<section class=\"container footer\"> \t<p class=\"footer__title\">homemade ice cream <span class=\"footer__title--size\">made with passion</span></p> \t<div class=\"footer__social\"></div> \t<p>Feel free to contact </p> \t<a href=\"tel:+61 (0) 383 766 284\">+61 (0) 383 766 284</a> \t<p>&copy 2022 - IceCream. All Rights Reserved.</p> </section>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnaShavarovska/glowly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InnaShavarovska/glowly/issues"
+  },
+  "homepage": "https://github.com/InnaShavarovska/glowly#readme"
+}
